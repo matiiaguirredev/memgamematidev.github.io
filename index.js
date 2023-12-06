@@ -17,51 +17,51 @@ let segundaCarta = false;
 const items = [
     {
         name : "abeja",
-        imagen: "/img/bee.png"
+        imagen: "img/bee.png"
     },
     {
         name : "cocodrilo",
-        imagen: "/img/crocodile.png"
+        imagen: "img/crocodile.png"
     },
     {
         name : "anaconda",
-        imagen: "/img/anaconda.png"
+        imagen: "img/anaconda.png"
     },
     {
         name : "chameleon",
-        imagen: "/img/chameleon.png"
+        imagen: "img/chameleon.png"
     },
     {
         name : "cacatúa",
-        imagen: "/img/cockatoo.png"
+        imagen: "img/cockatoo.png"
     },
     {
         name : "gorila",
-        imagen: "/img/gorilla.png"
+        imagen: "img/gorilla.png"
     },
     {
         name : "guacamayo",
-        imagen: "/img/macaw.png"
+        imagen: "img/macaw.png"
     },
     {
         name : "mono",
-        imagen: "/img/monkey.png"
+        imagen: "img/monkey.png"
     },
     {
         name : "piraña",
-        imagen: "/img/piranha.png"
+        imagen: "img/piranha.png"
     },
     {
         name : "perezoso",
-        imagen: "/img/sloth.png"
+        imagen: "img/sloth.png"
     },
     {
         name : "tigre",
-        imagen: "/img/tiger.png"
+        imagen: "img/tiger.png"
     },
     {
         name : "tucan",
-        imagen: "/img/toucan.png"
+        imagen: "img/toucan.png"
     }
 ]
 
